@@ -1,0 +1,1422 @@
+Phòng thi, thứ tự thi và sinh viên thi ứng với từng môn:
+1 TXKTKE01: Nguyên lý kế toán
+	Room: 1
+		Time slot: 2
+			1 19215197 Phùng Diệu Linh
+			2 19215218 Nguyễn Thị Tú Chiêu
+			3 19225009 Phạm Thị Thu Hồng
+			4 19225085 Trần Hồng Thắm
+			5 19235134 Trần Long Đỉnh
+			6 19235148 Phan Thúy Huyền
+			7 19235200 Lê Huy Hoàng
+			8 19235336 Ngô Duy Thắng
+			9 19235470 Nguyễn Lê Thảo Nhi
+			10 19235524 Nguyễn Hồng Ngọc
+			11 19235526 Phạm Thanh Nhi
+			12 19235528 Trần Thị Tố Quyên
+			13 19235539 Lê Thị Vân Anh
+			14 19235542 Trần Nam Thiên Bảo Duy
+			15 19235549 Nguyễn Thị Bích Hường
+			16 19235551 Lưu Thị Linh
+			17 19235557 Bùi Khải Minh
+			18 19235560 Huỳnh Thị Như Ngọc
+			19 19235562 Trần Diệp Hoàng Oanh
+			20 19235595 Phạm Thị Hà
+			21 19235607 Lý Kim Hoàng
+			22 19235645 Nguyễn Minh Quí
+			23 19235689 Nguyễn Bá Vinh
+			24 19235706 Nguyễn Văn Chiến
+			25 19235757 Trần Thị Thanh Thủy
+			26 19235765 Phạm Văn Hải
+			27 19235766 Ka Hảo
+			28 19235774 Đoàn Kiều Loan
+			29 19235779 Hồ Thị Thanh Tâm
+			30 19235784 Lê Phương Trúc
+	Room: 4
+		Time slot: 2
+			1 19225708 Nguyễn Khánh Vy
+			2 19235540 Kha Ngọc Dinh
+			3 19235543 Nguyễn Thị Bé Giang
+			4 19235561 Phan Thị Cẩm Nhi
+			5 19235564 Chí Ngọc Phượng
+			6 19235566 Lê Tùng Sơn
+			7 19235567 Đinh Thu Thảo
+			8 19235579 Nguyễn Thị Kiều Anh
+			9 19235581 Nguyễn Kim Chung
+			10 19235585 Phạm Thị Ngọc Diễm
+			11 19235590 Nguyễn Khương Duy
+			12 19235591 Phạm Khánh Duy
+			13 19235599 Nguyễn Mai Hậu
+			14 19235606 Nguyễn Ngọc Mai Hoa
+			15 19235613 Nguyễn Minh Khôi
+			16 19235623 Huỳnh Thị Tiểu My
+			17 19235624 Ngô Hà My
+			18 19235626 Nguyễn Phương Nam
+			19 19235631 Nguyễn Bích Ngọc
+			20 19235633 Lê Thành Nhân
+			21 19235635 Lê Nguyễn Trúc Nhi
+			22 19235638 Hà Nguyễn Tâm Như
+			23 19235640 Lê Hoàng Phúc
+			24 19235644 Cáp Kim Quang
+			25 19235650 Vạn Trúc Quỳnh
+			26 19235651 Đặng Hoài Sâm
+			27 19235652 Võ Phú Tài
+			28 19235653 Lê Thị Tâm
+			29 19235682 Thiều Quang Tú
+			30 19235693 Dương Vy
+			31 19235694 Phan Ngọc Tường Vy
+			32 19235696 Lê Thị Lệ Xuân
+			33 19235722 Nguyễn Thị Giao Linh
+			34 19235759 Trương Thị Hồng Yến
+			35 19235763 Đoàn Huệ Chi
+			36 19235769 Đặng Văn Hùng
+			37 19235773 Trần Anh Kiệt
+			38 19235775 Trịnh Hoàng Long
+			39 19235776 Lê Thảo Nguyên
+			40 19235780 Trang Thị Hồng Thắm
+	Room: 11
+		Time slot: 2
+			1 19235570 Ngô Quỳnh Diễm Thi
+			2 19235575 Đặng Ngọc Tuấn Anh
+			3 19235577 Lê Quốc Anh
+			4 19235601 Phạm Thị Thu Hậu
+			5 19235603 Nguyễn Thị Hiền
+			6 19235605 Hoàng Thị Hoa
+			7 19235608 Nguyễn Thái Học
+			8 19235609 Dương Gia Huy
+			9 19235628 Đặng Tuyết Nga
+			10 19235637 Trần Yến Nhi
+			11 19235657 Thái Mai Thao
+			12 19235675 Nguyễn Trần Huyền Trang
+			13 19235683 Hồ Trọng Tuấn
+			14 19235685 Vũ Lý Ánh Tuyết
+			15 19235688 Lương Quốc Vinh
+			16 19235690 Nguyễn Toàn Vinh
+			17 19235691 Quách Hữu Vinh
+	Room: 14
+		Time slot: 2
+			1 19225130 Bùi Thanh Hải
+			2 19225310 Đoàn Kim Anh
+			3 19225582 Trần Khánh Linh
+			4 19235541 Huỳnh Tấn Đông
+			5 19235576 Đặng Thu Anh
+			6 19235580 Vũ Thị Mỹ Anh
+			7 19235584 Nguyễn Tấn Đạt
+			8 19235588 Trần Đức Dũng
+			9 19235600 Phạm Thị Phương Hậu
+			10 19235604 Phạm Bích Hiền
+			11 19235610 Dương Khánh Huy
+			12 19235611 Nguyễn Thị Thanh Huyền
+			13 19235641 Nguyễn Thị Thảo Phương
+			14 19235646 Ngô Trọng Quốc
+			15 19235648 Nguyễn Thị Quyên
+			16 19235649 Nguyễn Thị Thanh Quyền
+			17 19235656 Từ Ngọc Thạch
+			18 19235659 Trần Anh Thảo
+			19 19235660 Nguyễn Đỗ Mai Thi
+			20 19235662 Võ Thị Bé Thơ
+			21 19235665 Trần Thụy Trang Thư
+			22 19235667 Lâm Ngọc Ái Thy
+			23 19235677 Đỗ Thị Tú Trinh
+			24 19235679 Trần Đức Trọng
+			25 19235681 Đỗ Thanh Truyền
+			26 19235686 Bành Ngọc Tố Uyên
+			27 19235687 Vũ Thị Uyên
+			28 19235695 Phan Thị Gia Vy
+			29 19235730 Trịnh Minh Quốc
+			30 19235745 Mai Thị Lĩnh
+			31 19235753 Nguyễn Minh Phú
+			32 19235761 Dương Gia Bảo
+			33 19235770 Nguyễn Xuân Hưng
+			34 19235782 Nguyễn Thị Lệ Thu
+2 TXKTKI02: Kiểm toán tài chính 1
+	Room: 12
+		Time slot: 6
+			1 19225028 Nguyễn Thị Mai Thảo
+3 TXKTQT01: Kế toán quản trị 1
+	Room: 1
+		Time slot: 2
+			1 19205815 Bùi Thị Thoại Huyền
+			2 19205816 Vũ Thị Lan
+			3 19225008 Phạm Thị Hòa
+			4 19225636 Nguyễn Thị Quyên
+			5 19225639 Trịnh Bá Thành
+			6 19235008 Nguyễn Trí Đạt
+			7 19235020 Huỳnh Thị Bích Liên
+			8 19235321 Nguyễn Thị Diệu Hoa
+			9 19235334 Nguyễn Vũ Như Quỳnh
+			10 19235537 Nguyễn Thị Kim Thảo
+4 TXLLTT1101: Tư tưởng Hồ Chí Minh
+	Room: 1
+		Time slot: 4
+			1 19215218 Nguyễn Thị Tú Chiêu
+			2 19215343 Lữ Minh Phương
+			3 19225009 Phạm Thị Thu Hồng
+			4 19225145 Nguyễn Đức Kiên
+			5 19225273 Lý Thị Khánh Linh
+			6 19225275 Lê Thị Triệu Mẫn
+			7 19225310 Đoàn Kim Anh
+			8 19225373 Nguyễn Thị Như Ngọc
+			9 19225383 Đỗ Cao Sơn
+			10 19225390 Đặng Huỳnh Anh Thư
+			11 19225527 Dương Vân Anh
+			12 19225586 Bùi Thị Hồng My
+			13 19225708 Nguyễn Khánh Vy
+			14 19225758 Đào Thị Hoa
+			15 19235008 Nguyễn Trí Đạt
+			16 19235055 Nguyễn Phú Cường
+			17 19235095 Nguyễn Thị Quỳnh Nhi
+			18 19235098 Đào Phương Nhung
+			19 19235236 Nguyễn Thị Y Nga
+			20 19235239 Phan Nhiên Ngọc
+			21 19235251 Nguyễn Thành Ninh
+			22 19235294 Đặng Trần Bảo Tôn
+			23 19235302 Nguyễn Minh Tuấn
+			24 19235327 Nguyễn Xuân Thiên Ly
+			25 19235360 Nguyễn Ngọc Đạt
+			26 19235387 Lưu Hồng Ngọc
+			27 19235420 Huỳnh Lê Anh
+			28 19235427 Nguyễn Khánh Chính
+			29 19235632 Nguyễn Thị Kim Ngọc
+			30 19235637 Trần Yến Nhi
+			31 19235712 Lê Văn Giáp
+			32 19235734 Nguyễn Hoàng Nhật Tiến
+	Room: 11
+		Time slot: 4
+			1 19215536 Bùi Lê An
+			2 19215602 Bùi Thanh Nga
+			3 19222188 Vũ Thị Hằng
+			4 19225117 Lâm Linh Chi
+			5 19225122 Cao Thuỳ Thục Đoan
+			6 19225215 Phạm Nguyễn Phúc Anh
+			7 19225334 Bùi Thị Cúc Anh Đào
+			8 19225348 Lương Viết Đình Hoàng
+			9 19225496 Phạm Hồng Ngọc
+			10 19225518 Hồ Văn Út
+			11 19225616 Trương Huyền Trinh
+			12 19225801 Trần Thị Thiện Tâm
+			13 19225818 Lê Thanh Tuấn
+			14 19235018 Nguyễn Quang Thanh Lâm
+			15 19235073 Đinh Hoàng Diệu Linh
+			16 19235080 Lê Đình Long
+			17 19235085 Lê Nguyễn Khánh Minh
+			18 19235119 Trần Thị Thuỷ
+			19 19235125 Nguyễn Thị Yến Vy
+			20 19235143 Trịnh Thị Thu Hoài
+			21 19235164 Huỳnh Thị Mỹ Trân
+			22 19235168 Phạm Thị Kim Yến
+			23 19235178 Phạm Văn Cường
+			24 19235196 Đỗ Thị Thu Hiền
+			25 19235208 Nguyễn Thị Huyền
+			26 19235248 Nguyễn Thị Quỳnh Như
+			27 19235258 Trương Thị Bích Phương
+			28 19235264 Lê Thị Quỳnh
+			29 19235286 Lê Bích Thụy
+			30 19235290 Lê Thị Tĩnh
+			31 19235291 Lê Mạnh Toàn
+			32 19235297 Vũ Thị Thùy Trang
+			33 19235321 Nguyễn Thị Diệu Hoa
+			34 19235410 Kiều Thành Trung
+			35 19235467 Nguyễn Thiện Nghĩa
+			36 19235470 Nguyễn Lê Thảo Nhi
+			37 19235686 Bành Ngọc Tố Uyên
+			38 19235715 Trương Thị Bé Hoài
+			39 19235720 Đặng Thị Trúc Linh
+			40 19235723 Dương Thị Trà Mi
+5 TXLUCS09: Luật hiến pháp
+	Room: 8
+		Time slot: 2
+			1 19189004 Trần Quốc Huy
+			2 19189017 Đinh Huỳnh Vũ  Thanh
+			3 19215602 Bùi Thanh Nga
+			4 19220683 Lý Khả Uyên
+			5 19225043 Đinh Thị Liên Chi
+			6 19235396 Tiêu Phúc Tài
+6 TXLUKD1163: Pháp luật về đầu tư
+	Room: 9
+		Time slot: 2
+			1 19235055 Nguyễn Phú Cường
+			2 19235078 Võ Thị Kim Loan
+			3 19235079 Lý Tấn Lợi
+			4 19235094 Nguyễn Quỳnh Nhi
+			5 19235352 Dư Huỳnh Anh
+			6 19235355 Hà Phạm Bảo Châu
+			7 19235356 Lê Ngọc Châu
+			8 19235360 Nguyễn Ngọc Đạt
+			9 19235361 Phạm Thành Đạt
+			10 19235363 Trần Hoàng Thúy Hà
+			11 19235370 Võ Phước Hoà
+			12 19235371 Hà Khánh Hoàng
+			13 19235372 Vũ Văn Hùng
+			14 19235373 Vương Thị Lệ Huyền
+			15 19235374 Lê Quang Khải
+			16 19235384 Vũ Thuỳ Linh
+			17 19235385 Nguyễn Thành Long
+			18 19235386 Phan Thị Thanh Nga
+			19 19235390 Nguyễn Thị Oanh
+			20 19235393 Đỗ Thị Nhật Quỳnh
+			21 19235397 Nguyễn Văn Thạch
+			22 19235398 Phạm Chí Thanh
+			23 19235401 Đặng Hồng Thi
+			24 19235405 Nguyễn Thị Hoài Thương
+			25 19235409 Nguyễn Cao Trí
+			26 19235410 Kiều Thành Trung
+			27 19235413 Nguyễn Hoàng Phương Uyên
+7 TXLUKD1176: Pháp Luật cạnh tranh
+	Room: 4
+		Time slot: 1
+			1 19215428 Nguyễn Ngọc Kim Thoa
+			2 19220600 Nguyễn Hồng Hạnh
+			3 19225070 Phùng Thị Bích Ngọc
+			4 19225254 Trần Thị Minh Anh
+			5 19225255 Trần Thị Vi Anh
+			6 19225261 Hoàng Thu Giang
+			7 19225267 Trần Thị Thùy Hương
+			8 19225269 Ngô Thị Thanh Huyền
+			9 19225271 Hoàng Thùy Linh
+			10 19225273 Lý Thị Khánh Linh
+			11 19225276 Nguyễn Thị Trà Mi
+			12 19225282 Phan Bá Ngọc
+			13 19225285 Nguyễn Thị Quỳnh Như
+			14 19225300 Nguyễn Thị Huỳnh Trang
+			15 19225303 Ngô Duy Tùng
+			16 19225306 Lê Hoàng Việt
+			17 19225307 Nguyễn Minh Vương
+			18 19225646 Trần Nguyễn Vân An
+			19 19230149 Lê Quang Đăng
+			20 19235076 Trần Thị Giao Linh
+			21 19235088 Nguyễn Dương Như Ngọc
+			22 19235089 Lê Thị Ánh Nguyệt
+			23 19235099 Nguyễn Diệu Hồng Nhung
+			24 19235122 Nguyễn Minh Tường
+			25 19235130 Trịnh Thị Yến
+			26 19235364 Nguyễn Đức Hải
+			27 19235384 Vũ Thuỳ Linh
+			28 19235390 Nguyễn Thị Oanh
+8 TXQTKD1148: Quản trị vận hành
+	Room: 13
+		Time slot: 6
+			1 19231740 Trần Đức Thắng
+			2 19235194 Nguyễn Mỹ Hạnh
+			3 19235278 Phạm Thị Thanh Thảo
+			4 19235420 Huỳnh Lê Anh
+			5 19235422 Phan Kế Anh
+			6 19235431 Trần Thành Đạt
+			7 19235433 Lê Thị Thùy Dương
+			8 19235443 Nguyễn Đặng Quỳnh Hương
+			9 19235445 Đỗ Minh Huy
+			10 19235449 Nguyễn Thị Thúy Huyền
+			11 19235454 Phí Ngọc Khánh
+			12 19235458 Trần Thị Linh
+			13 19235466 Lê Hồ Quỳnh Ngân
+			14 19235472 Võ Yến Như
+			15 19235473 Trần Danh Oanh
+			16 19235474 Phan Hoàng Quân
+			17 19235475 Trần Chu Sa
+			18 19235480 Nguyễn Văn Tài
+			19 19235483 Phạm Hồng Thắng
+			20 19235485 Lê Phạm Thanh Thanh
+			21 19235495 Võ Nguyễn Phương Thy
+			22 19235496 Lê Thanh Tiến
+			23 19235499 Quách Thị Bảo Trâm
+			24 19235501 Nguyễn Lê Thuỷ Trúc
+			25 19235502 Bùi Lê Hiếu Trung
+			26 19235505 Nguyễn Mạnh Tuấn
+			27 19235507 Đào Duy Tùng
+			28 19235605 Hoàng Thị Hoa
+			29 19235644 Cáp Kim Quang
+			30 19235784 Lê Phương Trúc
+9 TXQTKD116: Kỹ năng quản trị
+	Room: 13
+		Time slot: 1
+			1 19205050 Nguyễn Thị Thuỳ Linh
+			2 19205518 Phạm Văn Hưng
+			3 19205601 Lư Hà Long
+			4 19205609 Lê Hoàng Tâm
+			5 19205784 Lê Phước Lộc
+			6 19225128 Hoàng Thị Hồng Hà
+			7 19225155 Đoàn Hải Nam
+			8 19225164 Phạm Huỳnh Nhi
+			9 19225172 Võ Hữu Phước
+			10 19225190 Nguyễn Thị Thảo
+			11 19225213 Đoàn Đại Việt
+			12 19225738 Nguyễn Thị Cẩm
+			13 19225760 Cấn Thị Thu Hương
+			14 19225805 Nguyễn Đức Thịnh
+			15 19225818 Lê Thanh Tuấn
+10 TXQTTH04: Tái lập doanh nghiệp
+	Room: 3
+		Time slot: 6
+			1 19205103 Nguyễn Vĩnh Lâu
+			2 19205423 Khưu Nhật Vy
+			3 19205528 Võ Thị Hà Trang
+			4 19205836 Vũ Thị Vân
+			5 19220322 Phan Nguyễn Sông Hương
+			6 19225145 Nguyễn Đức Kiên
+			7 19225160 Nguyễn Ngọc Thảo Nguyên
+			8 19225167 Nguyễn Thị Kim Oanh
+			9 19225181 Nguyễn Thị Kim Quý
+			10 19225214 Nguyễn Duy Võ
+			11 19225552 Văn Ngọc Quỳnh Anh
+			12 19225564 Nguyễn Đức Duy
+			13 19225568 Nguyễn Thị Mỹ Hạnh
+			14 19225569 Trần Văn Hậu
+			15 19225575 Phạm Duy Khang
+			16 19225599 Trần Thuý Quỳnh
+			17 19225605 Lê Thị Kim Thảo
+			18 19225612 Huỳnh Thùy Trang
+			19 19225613 Mai Thị Huyền Trang
+			20 19225790 Huỳnh Nhi
+			21 19225814 Vương Khánh Trung
+			22 19228011 Hứa Như Nguyên
+			23 19235184 Nguyễn Minh Đức
+			24 19235196 Đỗ Thị Thu Hiền
+			25 19235240 Trần Chí Nguyên
+			26 19235250 Hồ Trang Nhung
+			27 19235273 Phạm Văn Thại
+			28 19235301 Cù Anh Tuấn
+			29 19235778 Quách Như Quỳnh
+11 TXQTTH05: Quản trị chi phí kinh doanh
+	Room: 8
+		Time slot: 3
+			1 19205103 Nguyễn Vĩnh Lâu
+			2 19215537 Nguyễn Quốc An
+			3 19225128 Hoàng Thị Hồng Hà
+			4 19225143 Đào Trần Đăng Khoa
+			5 19225155 Đoàn Hải Nam
+			6 19225172 Võ Hữu Phước
+			7 19225190 Nguyễn Thị Thảo
+			8 19225208 Huỳnh Tăng Anh Tuấn
+			9 19225213 Đoàn Đại Việt
+			10 19225361 La Văn Kỳ
+			11 19225385 Nguyễn Thị Thanh Tâm
+			12 19225738 Nguyễn Thị Cẩm
+			13 19225756 Nguyễn Quang Hiếu
+			14 19225758 Đào Thị Hoa
+			15 19225760 Cấn Thị Thu Hương
+			16 19225793 Lê Quỳnh Như
+			17 19225801 Trần Thị Thiện Tâm
+			18 19225805 Nguyễn Đức Thịnh
+			19 19225813 Nguyễn Thành Trung
+			20 19225818 Lê Thanh Tuấn
+			21 19225822 Nguyễn Việt Tùng
+			22 19235178 Phạm Văn Cường
+			23 19235196 Đỗ Thị Thu Hiền
+			24 19235235 Nguyễn Phùng Hoàng Nam
+			25 19235239 Phan Nhiên Ngọc
+			26 19235251 Nguyễn Thành Ninh
+			27 19235273 Phạm Văn Thại
+			28 19235277 Huỳnh Thị Phương Thảo
+			29 19235279 Lê Nhật Thiên
+			30 19235292 Trần Văn Toàn
+			31 19235293 Vũ Khánh Toàn
+			32 19235302 Nguyễn Minh Tuấn
+			33 19235418 Đàm Thị Kim Anh
+			34 19235426 Trần Minh Chiến
+			35 19235429 Vũ Việt Cường
+			36 19235435 Trần Lê Mỹ Duyên
+			37 19235446 Nguyễn Quang Huy
+			38 19235686 Bành Ngọc Tố Uyên
+			39 19235784 Lê Phương Trúc
+	Room: 11
+		Time slot: 3
+			1 19191218 Tạ Minh Thuận
+			2 19210909 Dương Thị Vân Anh
+			3 19225770 Nguyễn Thùy Linh
+			4 19235193 Hoàng Thị Bảo Hân
+12 TXQTTH07: Quản trị chất lượng
+	Room: 15
+		Time slot: 2
+			1 19205050 Nguyễn Thị Thuỳ Linh
+			2 19205435 Phan Quốc Đạt
+			3 19205518 Phạm Văn Hưng
+			4 19215450 Bùi Thị Hà
+			5 19215645 Phạm Đình Thịnh
+			6 19225408 Mai Thanh Tùng
+			7 19225554 Lê Văn Bắc
+			8 19225584 Nguyễn Thanh Long
+			9 19225588 Nguyễn Thị Thu Nga
+			10 19225616 Trương Huyền Trinh
+			11 19225731 Lê Công Anh
+			12 19225733 Nguyễn Thái Quốc Anh
+			13 19225801 Trần Thị Thiện Tâm
+			14 19225806 Nguyễn Thị Thu Thơm
+			15 19225816 Trần Minh Tú
+			16 19235208 Nguyễn Thị Huyền
+			17 19235235 Nguyễn Phùng Hoàng Nam
+			18 19235277 Huỳnh Thị Phương Thảo
+			19 19235293 Vũ Khánh Toàn
+			20 19235297 Vũ Thị Thùy Trang
+			21 19235427 Nguyễn Khánh Chính
+			22 19235439 Trần Thị Thu Hiền
+			23 19235441 Lê Thị Thanh Hòa
+			24 19235448 Phạm Quốc Huy
+			25 19235457 Nguyễn Duy Linh
+			26 19235459 Võ Thị Hải Lý
+			27 19235462 Vũ Thị Hồng Mỹ
+			28 19235463 Hà Ngọc Nam
+			29 19235476 Ngụy Thái Sang
+			30 19235478 Nguyễn Đình Sơn
+			31 19235490 Trần Thiện Thống
+			32 19235492 Lê Ngọc Hoài Thương
+			33 19235493 Quang Đăng Phương Thuỷ
+			34 19235494 Bùi Thị Thanh Thủy
+			35 19235500 Lâm Văn Trí
+			36 19235504 Nguyễn Thị Cẩm Tú
+			37 19235506 Nguyễn Viết Tuấn
+			38 19235512 Trần Như Ý
+13 TXQTTH10: Khởi sự kinh doanh
+	Room: 1
+		Time slot: 5
+			1 19225127 Trần Thanh Duyên
+			2 19225132 Nguyễn Trung Hiếu
+			3 19225143 Đào Trần Đăng Khoa
+			4 19225146 Nguyễn Ánh Kim
+			5 19225154 Lê Thị Trà My
+			6 19225157 Trương Thị Thu Ngân
+			7 19225167 Nguyễn Thị Kim Oanh
+			8 19225329 Nguyễn Trần Hoài Anh
+			9 19225366 Đỗ Nguyễn Thiên Long
+			10 19225383 Đỗ Cao Sơn
+			11 19225758 Đào Thị Hoa
+			12 19225785 Lê Ngọc Ngân
+			13 19225808 Hoàng Thị Thủy
+			14 19231270 Nguyễn Võ Nguyệt Tú
+			15 19235178 Phạm Văn Cường
+			16 19235193 Hoàng Thị Bảo Hân
+			17 19235196 Đỗ Thị Thu Hiền
+			18 19235200 Lê Huy Hoàng
+			19 19235214 Nguyễn Đăng Khương
+			20 19235235 Nguyễn Phùng Hoàng Nam
+			21 19235236 Nguyễn Thị Y Nga
+			22 19235248 Nguyễn Thị Quỳnh Như
+			23 19235251 Nguyễn Thành Ninh
+			24 19235273 Phạm Văn Thại
+			25 19235277 Huỳnh Thị Phương Thảo
+			26 19235282 Vũ Anh Thư
+			27 19235292 Trần Văn Toàn
+			28 19235293 Vũ Khánh Toàn
+			29 19235294 Đặng Trần Bảo Tôn
+			30 19235298 Phạm Hoàng Trọng
+			31 19235302 Nguyễn Minh Tuấn
+			32 19235418 Đàm Thị Kim Anh
+			33 19235429 Vũ Việt Cường
+			34 19235435 Trần Lê Mỹ Duyên
+			35 19235446 Nguyễn Quang Huy
+			36 19235477 Võ Thanh Sang
+			37 19235501 Nguyễn Lê Thuỷ Trúc
+14 TXQTTH1123: Quản trị quá trình kinh doanh
+	Room: 8
+		Time slot: 1
+			1 19210909 Dương Thị Vân Anh
+			2 19211738 Bùi Thị Huyền
+			3 19215157 Đặng Thanh Hải
+			4 19215197 Phùng Diệu Linh
+			5 19215273 Trần Nguyễn Nhật Quỳnh
+			6 19215318 Nguyễn Hoàng Long
+			7 19215340 Hồ Sỹ Phong
+			8 19215362 Nguyễn Ngọc Minh Thùy
+			9 19225126 Nguyễn Hoàng Duy
+			10 19225143 Đào Trần Đăng Khoa
+			11 19225181 Nguyễn Thị Kim Quý
+			12 19225335 Trần Thị Diệu
+			13 19225568 Nguyễn Thị Mỹ Hạnh
+			14 19225569 Trần Văn Hậu
+			15 19225572 Nguyễn Thị Minh Hoàng
+			16 19225574 Cao Trần Khánh Hưng
+			17 19225577 Đỗ Kiên
+			18 19225581 Đàm Thị Liên
+			19 19225733 Nguyễn Thái Quốc Anh
+			20 19225777 Phạm Quốc Long
+			21 19231270 Nguyễn Võ Nguyệt Tú
+			22 19235178 Phạm Văn Cường
+			23 19235182 Hoàng Văn Diệu
+			24 19235193 Hoàng Thị Bảo Hân
+			25 19235203 Phùng Ngô Trung Hưng
+			26 19235235 Nguyễn Phùng Hoàng Nam
+			27 19235248 Nguyễn Thị Quỳnh Như
+			28 19235277 Huỳnh Thị Phương Thảo
+			29 19235290 Lê Thị Tĩnh
+			30 19235293 Vũ Khánh Toàn
+			31 19235294 Đặng Trần Bảo Tôn
+			32 19235298 Phạm Hoàng Trọng
+			33 19235434 Phan Thị Mỷ Duyên
+			34 19235437 Vũ Nguyễn Bảo Hân
+			35 19235467 Nguyễn Thiện Nghĩa
+			36 19235477 Võ Thanh Sang
+			37 19235784 Lê Phương Trúc
+15 TXQTTH1131: Phương pháp tối ưu trong kinh doanh
+	Room: 11
+		Time slot: 2
+			1 19215103 Nguyễn Thị Thùy Linh
+			2 19215174 Lê Thị Xuân
+			3 19215291 Vũ Anh Hai
+			4 19215297 Đinh Tiến Hoàng
+			5 19215303 Nguyễn Thị Thu Hương
+			6 19215339 Hoàng Chí Phát
+			7 19225117 Lâm Linh Chi
+			8 19225184 Phan Thanh Sang
+			9 19225189 Nguyễn Duy Thành
+			10 19225333 Huỳnh Từ Phương Đang
+			11 19225335 Trần Thị Diệu
+			12 19225343 Trương Hiền
+			13 19225352 Nguyễn Sỹ Hùng
+			14 19225356 Vũ Duy Khanh
+			15 19225368 Lê Nhật Minh
+			16 19225381 Cao Xuân Sơn
+			17 19225382 Chu Văn Sơn
+			18 19225383 Đỗ Cao Sơn
+			19 19225397 Lê Đỗ Hoàng Bảo Trâm
+			20 19225406 Nguyễn Mạnh Tuấn
+			21 19225549 Huỳnh Ngọc Anh
+			22 19225574 Cao Trần Khánh Hưng
+			23 19225814 Vương Khánh Trung
+16 TXQTVH04: Giao tiếp kinh doanh và thuyết trình
+	Room: 14
+		Time slot: 3
+			1 19205110 Hà Thị Nguyên
+			2 19205435 Phan Quốc Đạt
+17 TXQTVH1109: Giao tiếp kinh doanh
+	Room: 11
+		Time slot: 3
+			1 19215171 Phan Thị Tím
+			2 19215458 Hoàng Hồng Lê
+			3 19220322 Phan Nguyễn Sông Hương
+			4 19225112 Hoàng Tuấn Anh
+			5 19225166 Nguyễn Thị Hồng Nhung
+			6 19225214 Nguyễn Duy Võ
+			7 19225377 Nguyễn Thị Ngọc Quý
+			8 19225390 Đặng Huỳnh Anh Thư
+			9 19225397 Lê Đỗ Hoàng Bảo Trâm
+			10 19225564 Nguyễn Đức Duy
+			11 19225569 Trần Văn Hậu
+			12 19225575 Phạm Duy Khang
+			13 19225586 Bùi Thị Hồng My
+			14 19225599 Trần Thuý Quỳnh
+			15 19225600 Nguyễn Công Sơn
+			16 19225605 Lê Thị Kim Thảo
+			17 19225612 Huỳnh Thùy Trang
+			18 19225613 Mai Thị Huyền Trang
+			19 19228013 Nguyễn Thị Diệu Vê
+			20 19235240 Trần Chí Nguyên
+			21 19235282 Vũ Anh Thư
+			22 19235536 Cao Trần Quỳnh Yến
+			23 19235704 Phạm Thị Vân Anh
+			24 19235706 Nguyễn Văn Chiến
+			25 19235710 NGUYỄN TẤN ĐÔNG
+			26 19235711 Phạm Tiến Dũng
+			27 19235717 Lê Thế Hưng
+			28 19235719 Trần Như Lai
+			29 19235720 Đặng Thị Trúc Linh
+			30 19235730 Trịnh Minh Quốc
+			31 19235731 Nguyễn Ngọc Tấn
+			32 19235736 Lê  Mạnh Tuấn
+18 TXTOCB01: Toán cho các nhà kinh tế
+	Room: 1
+		Time slot: 6
+			1 19215586 Dương Yến Vy
+			2 19225107 Võ Thành Trung
+			3 19225118 Nguyễn Cao Quốc Cường
+			4 19225475 Đào Thị Bích Diễm
+			5 19225549 Huỳnh Ngọc Anh
+			6 19225733 Nguyễn Thái Quốc Anh
+			7 19225780 Nguyễn Thị Lý
+			8 19235076 Trần Thị Giao Linh
+			9 19235132 Nguyễn Ngọc Anh
+			10 19235239 Phan Nhiên Ngọc
+			11 19235283 Nguyễn Thị Thuỳ
+			12 19235540 Kha Ngọc Dinh
+			13 19235542 Trần Nam Thiên Bảo Duy
+			14 19235546 Phạm Thị Hồng
+			15 19235561 Phan Thị Cẩm Nhi
+			16 19235570 Ngô Quỳnh Diễm Thi
+			17 19235579 Nguyễn Thị Kiều Anh
+			18 19235582 Lương Hoàng Danh
+			19 19235591 Phạm Khánh Duy
+			20 19235609 Dương Gia Huy
+			21 19235638 Hà Nguyễn Tâm Như
+			22 19235650 Vạn Trúc Quỳnh
+			23 19235667 Lâm Ngọc Ái Thy
+			24 19235687 Vũ Thị Uyên
+			25 19235690 Nguyễn Toàn Vinh
+			26 19235708 Nông Quảng Đạt
+			27 19235709 Phan Mạnh Diệu
+			28 19235712 Lê Văn Giáp
+			29 19235734 Nguyễn Hoàng Nhật Tiến
+			30 19235735 Phạm Huyền Trang
+			31 19235745 Mai Thị Lĩnh
+			32 19235759 Trương Thị Hồng Yến
+			33 19235762 Nguyễn Phương Bình
+			34 19235770 Nguyễn Xuân Hưng
+			35 19235773 Trần Anh Kiệt
+			36 19235775 Trịnh Hoàng Long
+			37 19235776 Lê Thảo Nguyên
+			38 19235780 Trang Thị Hồng Thắm
+	Room: 6
+		Time slot: 6
+			1 19215098 Nguyễn Thanh Hải
+			2 19215174 Lê Thị Xuân
+			3 19225016 Nguyễn Ngọc Kim Ngân
+			4 19225126 Nguyễn Hoàng Duy
+			5 19225225 Lương Thúy Hằng
+			6 19225502 Đào Thị Hồng Nhung
+			7 19225676 Lê Phước Lợi
+			8 19235094 Nguyễn Quỳnh Nhi
+			9 19235153 Lê Nguyễn Anh Khôi
+			10 19235541 Huỳnh Tấn Đông
+			11 19235543 Nguyễn Thị Bé Giang
+			12 19235553 Trần Thị Hoài Linh
+			13 19235557 Bùi Khải Minh
+			14 19235564 Chí Ngọc Phượng
+			15 19235567 Đinh Thu Thảo
+			16 19235571 Phan Thị Thúy
+			17 19235589 Nguyễn Hoàng Anh Duy
+			18 19235590 Nguyễn Khương Duy
+			19 19235595 Phạm Thị Hà
+			20 19235601 Phạm Thị Thu Hậu
+			21 19235613 Nguyễn Minh Khôi
+			22 19235637 Trần Yến Nhi
+			23 19235639 Võ Đông Mỹ Nhung
+			24 19235641 Nguyễn Thị Thảo Phương
+			25 19235651 Đặng Hoài Sâm
+			26 19235652 Võ Phú Tài
+			27 19235678 Huỳnh Thị Vũ Trinh
+			28 19235691 Quách Hữu Vinh
+			29 19235693 Dương Vy
+			30 19235694 Phan Ngọc Tường Vy
+			31 19235695 Phan Thị Gia Vy
+			32 19235703 Nguyễn Đức Anh
+			33 19235715 Trương Thị Bé Hoài
+			34 19235720 Đặng Thị Trúc Linh
+			35 19235723 Dương Thị Trà Mi
+			36 19235729 Ngô Đỗ Nhật Quang
+			37 19235739 Đồng Thị Vân Anh
+			38 19235753 Nguyễn Minh Phú
+			39 19235757 Trần Thị Thanh Thủy
+			40 19235779 Hồ Thị Thanh Tâm
+	Room: 15
+		Time slot: 6
+			1 19235130 Trịnh Thị Yến
+			2 19235336 Ngô Duy Thắng
+			3 19235539 Lê Thị Vân Anh
+			4 19235551 Lưu Thị Linh
+			5 19235560 Huỳnh Thị Như Ngọc
+			6 19235562 Trần Diệp Hoàng Oanh
+			7 19235566 Lê Tùng Sơn
+			8 19235575 Đặng Ngọc Tuấn Anh
+			9 19235577 Lê Quốc Anh
+			10 19235606 Nguyễn Ngọc Mai Hoa
+			11 19235623 Huỳnh Thị Tiểu My
+			12 19235656 Từ Ngọc Thạch
+			13 19235659 Trần Anh Thảo
+			14 19235688 Lương Quốc Vinh
+
+Môn thi, thời gian thi, sinh viên thi ứng với từng phòng: 
+Room: 0
+Time slot: 1 | TXKTKE01: Nguyên lý kế toán
+			1 19215197: Phùng Diệu Linh
+			2 19215218: Nguyễn Thị Tú Chiêu
+			3 19225009: Phạm Thị Thu Hồng
+			4 19225085: Trần Hồng Thắm
+			5 19235134: Trần Long Đỉnh
+			6 19235148: Phan Thúy Huyền
+			7 19235200: Lê Huy Hoàng
+			8 19235336: Ngô Duy Thắng
+			9 19235470: Nguyễn Lê Thảo Nhi
+			10 19235524: Nguyễn Hồng Ngọc
+			11 19235526: Phạm Thanh Nhi
+			12 19235528: Trần Thị Tố Quyên
+			13 19235539: Lê Thị Vân Anh
+			14 19235542: Trần Nam Thiên Bảo Duy
+			15 19235549: Nguyễn Thị Bích Hường
+			16 19235551: Lưu Thị Linh
+			17 19235557: Bùi Khải Minh
+			18 19235560: Huỳnh Thị Như Ngọc
+			19 19235562: Trần Diệp Hoàng Oanh
+			20 19235595: Phạm Thị Hà
+			21 19235607: Lý Kim Hoàng
+			22 19235645: Nguyễn Minh Quí
+			23 19235689: Nguyễn Bá Vinh
+			24 19235706: Nguyễn Văn Chiến
+			25 19235757: Trần Thị Thanh Thủy
+			26 19235765: Phạm Văn Hải
+			27 19235766: Ka Hảo
+			28 19235774: Đoàn Kiều Loan
+			29 19235779: Hồ Thị Thanh Tâm
+			30 19235784: Lê Phương Trúc
+
+Time slot: 1 | TXKTQT01: Kế toán quản trị 1
+			1 19205815: Bùi Thị Thoại Huyền
+			2 19205816: Vũ Thị Lan
+			3 19225008: Phạm Thị Hòa
+			4 19225636: Nguyễn Thị Quyên
+			5 19225639: Trịnh Bá Thành
+			6 19235008: Nguyễn Trí Đạt
+			7 19235020: Huỳnh Thị Bích Liên
+			8 19235321: Nguyễn Thị Diệu Hoa
+			9 19235334: Nguyễn Vũ Như Quỳnh
+			10 19235537: Nguyễn Thị Kim Thảo
+
+Time slot: 3 | TXLLTT1101: Tư tưởng Hồ Chí Minh
+			1 19215218: Nguyễn Thị Tú Chiêu
+			2 19215343: Lữ Minh Phương
+			3 19225009: Phạm Thị Thu Hồng
+			4 19225145: Nguyễn Đức Kiên
+			5 19225273: Lý Thị Khánh Linh
+			6 19225275: Lê Thị Triệu Mẫn
+			7 19225310: Đoàn Kim Anh
+			8 19225373: Nguyễn Thị Như Ngọc
+			9 19225383: Đỗ Cao Sơn
+			10 19225390: Đặng Huỳnh Anh Thư
+			11 19225527: Dương Vân Anh
+			12 19225586: Bùi Thị Hồng My
+			13 19225708: Nguyễn Khánh Vy
+			14 19225758: Đào Thị Hoa
+			15 19235008: Nguyễn Trí Đạt
+			16 19235055: Nguyễn Phú Cường
+			17 19235095: Nguyễn Thị Quỳnh Nhi
+			18 19235098: Đào Phương Nhung
+			19 19235236: Nguyễn Thị Y Nga
+			20 19235239: Phan Nhiên Ngọc
+			21 19235251: Nguyễn Thành Ninh
+			22 19235294: Đặng Trần Bảo Tôn
+			23 19235302: Nguyễn Minh Tuấn
+			24 19235327: Nguyễn Xuân Thiên Ly
+			25 19235360: Nguyễn Ngọc Đạt
+			26 19235387: Lưu Hồng Ngọc
+			27 19235420: Huỳnh Lê Anh
+			28 19235427: Nguyễn Khánh Chính
+			29 19235632: Nguyễn Thị Kim Ngọc
+			30 19235637: Trần Yến Nhi
+			31 19235712: Lê Văn Giáp
+			32 19235734: Nguyễn Hoàng Nhật Tiến
+
+Time slot: 4 | TXQTTH10: Khởi sự kinh doanh
+			1 19225127: Trần Thanh Duyên
+			2 19225132: Nguyễn Trung Hiếu
+			3 19225143: Đào Trần Đăng Khoa
+			4 19225146: Nguyễn Ánh Kim
+			5 19225154: Lê Thị Trà My
+			6 19225157: Trương Thị Thu Ngân
+			7 19225167: Nguyễn Thị Kim Oanh
+			8 19225329: Nguyễn Trần Hoài Anh
+			9 19225366: Đỗ Nguyễn Thiên Long
+			10 19225383: Đỗ Cao Sơn
+			11 19225758: Đào Thị Hoa
+			12 19225785: Lê Ngọc Ngân
+			13 19225808: Hoàng Thị Thủy
+			14 19231270: Nguyễn Võ Nguyệt Tú
+			15 19235178: Phạm Văn Cường
+			16 19235193: Hoàng Thị Bảo Hân
+			17 19235196: Đỗ Thị Thu Hiền
+			18 19235200: Lê Huy Hoàng
+			19 19235214: Nguyễn Đăng Khương
+			20 19235235: Nguyễn Phùng Hoàng Nam
+			21 19235236: Nguyễn Thị Y Nga
+			22 19235248: Nguyễn Thị Quỳnh Như
+			23 19235251: Nguyễn Thành Ninh
+			24 19235273: Phạm Văn Thại
+			25 19235277: Huỳnh Thị Phương Thảo
+			26 19235282: Vũ Anh Thư
+			27 19235292: Trần Văn Toàn
+			28 19235293: Vũ Khánh Toàn
+			29 19235294: Đặng Trần Bảo Tôn
+			30 19235298: Phạm Hoàng Trọng
+			31 19235302: Nguyễn Minh Tuấn
+			32 19235418: Đàm Thị Kim Anh
+			33 19235429: Vũ Việt Cường
+			34 19235435: Trần Lê Mỹ Duyên
+			35 19235446: Nguyễn Quang Huy
+			36 19235477: Võ Thanh Sang
+			37 19235501: Nguyễn Lê Thuỷ Trúc
+
+Time slot: 5 | TXTOCB01: Toán cho các nhà kinh tế
+			1 19215586: Dương Yến Vy
+			2 19225107: Võ Thành Trung
+			3 19225118: Nguyễn Cao Quốc Cường
+			4 19225475: Đào Thị Bích Diễm
+			5 19225549: Huỳnh Ngọc Anh
+			6 19225733: Nguyễn Thái Quốc Anh
+			7 19225780: Nguyễn Thị Lý
+			8 19235076: Trần Thị Giao Linh
+			9 19235132: Nguyễn Ngọc Anh
+			10 19235239: Phan Nhiên Ngọc
+			11 19235283: Nguyễn Thị Thuỳ
+			12 19235540: Kha Ngọc Dinh
+			13 19235542: Trần Nam Thiên Bảo Duy
+			14 19235546: Phạm Thị Hồng
+			15 19235561: Phan Thị Cẩm Nhi
+			16 19235570: Ngô Quỳnh Diễm Thi
+			17 19235579: Nguyễn Thị Kiều Anh
+			18 19235582: Lương Hoàng Danh
+			19 19235591: Phạm Khánh Duy
+			20 19235609: Dương Gia Huy
+			21 19235638: Hà Nguyễn Tâm Như
+			22 19235650: Vạn Trúc Quỳnh
+			23 19235667: Lâm Ngọc Ái Thy
+			24 19235687: Vũ Thị Uyên
+			25 19235690: Nguyễn Toàn Vinh
+			26 19235708: Nông Quảng Đạt
+			27 19235709: Phan Mạnh Diệu
+			28 19235712: Lê Văn Giáp
+			29 19235734: Nguyễn Hoàng Nhật Tiến
+			30 19235735: Phạm Huyền Trang
+			31 19235745: Mai Thị Lĩnh
+			32 19235759: Trương Thị Hồng Yến
+			33 19235762: Nguyễn Phương Bình
+			34 19235770: Nguyễn Xuân Hưng
+			35 19235773: Trần Anh Kiệt
+			36 19235775: Trịnh Hoàng Long
+			37 19235776: Lê Thảo Nguyên
+			38 19235780: Trang Thị Hồng Thắm
+
+Room: 1
+Room: 2
+Time slot: 5 | TXQTTH04: Tái lập doanh nghiệp
+			1 19205103: Nguyễn Vĩnh Lâu
+			2 19205423: Khưu Nhật Vy
+			3 19205528: Võ Thị Hà Trang
+			4 19205836: Vũ Thị Vân
+			5 19220322: Phan Nguyễn Sông Hương
+			6 19225145: Nguyễn Đức Kiên
+			7 19225160: Nguyễn Ngọc Thảo Nguyên
+			8 19225167: Nguyễn Thị Kim Oanh
+			9 19225181: Nguyễn Thị Kim Quý
+			10 19225214: Nguyễn Duy Võ
+			11 19225552: Văn Ngọc Quỳnh Anh
+			12 19225564: Nguyễn Đức Duy
+			13 19225568: Nguyễn Thị Mỹ Hạnh
+			14 19225569: Trần Văn Hậu
+			15 19225575: Phạm Duy Khang
+			16 19225599: Trần Thuý Quỳnh
+			17 19225605: Lê Thị Kim Thảo
+			18 19225612: Huỳnh Thùy Trang
+			19 19225613: Mai Thị Huyền Trang
+			20 19225790: Huỳnh Nhi
+			21 19225814: Vương Khánh Trung
+			22 19228011: Hứa Như Nguyên
+			23 19235184: Nguyễn Minh Đức
+			24 19235196: Đỗ Thị Thu Hiền
+			25 19235240: Trần Chí Nguyên
+			26 19235250: Hồ Trang Nhung
+			27 19235273: Phạm Văn Thại
+			28 19235301: Cù Anh Tuấn
+			29 19235778: Quách Như Quỳnh
+
+Room: 3
+Time slot: 0 | TXLUKD1176: Pháp Luật cạnh tranh
+			1 19215428: Nguyễn Ngọc Kim Thoa
+			2 19220600: Nguyễn Hồng Hạnh
+			3 19225070: Phùng Thị Bích Ngọc
+			4 19225254: Trần Thị Minh Anh
+			5 19225255: Trần Thị Vi Anh
+			6 19225261: Hoàng Thu Giang
+			7 19225267: Trần Thị Thùy Hương
+			8 19225269: Ngô Thị Thanh Huyền
+			9 19225271: Hoàng Thùy Linh
+			10 19225273: Lý Thị Khánh Linh
+			11 19225276: Nguyễn Thị Trà Mi
+			12 19225282: Phan Bá Ngọc
+			13 19225285: Nguyễn Thị Quỳnh Như
+			14 19225300: Nguyễn Thị Huỳnh Trang
+			15 19225303: Ngô Duy Tùng
+			16 19225306: Lê Hoàng Việt
+			17 19225307: Nguyễn Minh Vương
+			18 19225646: Trần Nguyễn Vân An
+			19 19230149: Lê Quang Đăng
+			20 19235076: Trần Thị Giao Linh
+			21 19235088: Nguyễn Dương Như Ngọc
+			22 19235089: Lê Thị Ánh Nguyệt
+			23 19235099: Nguyễn Diệu Hồng Nhung
+			24 19235122: Nguyễn Minh Tường
+			25 19235130: Trịnh Thị Yến
+			26 19235364: Nguyễn Đức Hải
+			27 19235384: Vũ Thuỳ Linh
+			28 19235390: Nguyễn Thị Oanh
+
+Time slot: 1 | TXKTKE01: Nguyên lý kế toán
+			1 19225708: Nguyễn Khánh Vy
+			2 19235540: Kha Ngọc Dinh
+			3 19235543: Nguyễn Thị Bé Giang
+			4 19235561: Phan Thị Cẩm Nhi
+			5 19235564: Chí Ngọc Phượng
+			6 19235566: Lê Tùng Sơn
+			7 19235567: Đinh Thu Thảo
+			8 19235579: Nguyễn Thị Kiều Anh
+			9 19235581: Nguyễn Kim Chung
+			10 19235585: Phạm Thị Ngọc Diễm
+			11 19235590: Nguyễn Khương Duy
+			12 19235591: Phạm Khánh Duy
+			13 19235599: Nguyễn Mai Hậu
+			14 19235606: Nguyễn Ngọc Mai Hoa
+			15 19235613: Nguyễn Minh Khôi
+			16 19235623: Huỳnh Thị Tiểu My
+			17 19235624: Ngô Hà My
+			18 19235626: Nguyễn Phương Nam
+			19 19235631: Nguyễn Bích Ngọc
+			20 19235633: Lê Thành Nhân
+			21 19235635: Lê Nguyễn Trúc Nhi
+			22 19235638: Hà Nguyễn Tâm Như
+			23 19235640: Lê Hoàng Phúc
+			24 19235644: Cáp Kim Quang
+			25 19235650: Vạn Trúc Quỳnh
+			26 19235651: Đặng Hoài Sâm
+			27 19235652: Võ Phú Tài
+			28 19235653: Lê Thị Tâm
+			29 19235682: Thiều Quang Tú
+			30 19235693: Dương Vy
+			31 19235694: Phan Ngọc Tường Vy
+			32 19235696: Lê Thị Lệ Xuân
+			33 19235722: Nguyễn Thị Giao Linh
+			34 19235759: Trương Thị Hồng Yến
+			35 19235763: Đoàn Huệ Chi
+			36 19235769: Đặng Văn Hùng
+			37 19235773: Trần Anh Kiệt
+			38 19235775: Trịnh Hoàng Long
+			39 19235776: Lê Thảo Nguyên
+			40 19235780: Trang Thị Hồng Thắm
+
+Room: 4
+Room: 5
+Time slot: 5 | TXTOCB01: Toán cho các nhà kinh tế
+			1 19215098: Nguyễn Thanh Hải
+			2 19215174: Lê Thị Xuân
+			3 19225016: Nguyễn Ngọc Kim Ngân
+			4 19225126: Nguyễn Hoàng Duy
+			5 19225225: Lương Thúy Hằng
+			6 19225502: Đào Thị Hồng Nhung
+			7 19225676: Lê Phước Lợi
+			8 19235094: Nguyễn Quỳnh Nhi
+			9 19235153: Lê Nguyễn Anh Khôi
+			10 19235541: Huỳnh Tấn Đông
+			11 19235543: Nguyễn Thị Bé Giang
+			12 19235553: Trần Thị Hoài Linh
+			13 19235557: Bùi Khải Minh
+			14 19235564: Chí Ngọc Phượng
+			15 19235567: Đinh Thu Thảo
+			16 19235571: Phan Thị Thúy
+			17 19235589: Nguyễn Hoàng Anh Duy
+			18 19235590: Nguyễn Khương Duy
+			19 19235595: Phạm Thị Hà
+			20 19235601: Phạm Thị Thu Hậu
+			21 19235613: Nguyễn Minh Khôi
+			22 19235637: Trần Yến Nhi
+			23 19235639: Võ Đông Mỹ Nhung
+			24 19235641: Nguyễn Thị Thảo Phương
+			25 19235651: Đặng Hoài Sâm
+			26 19235652: Võ Phú Tài
+			27 19235678: Huỳnh Thị Vũ Trinh
+			28 19235691: Quách Hữu Vinh
+			29 19235693: Dương Vy
+			30 19235694: Phan Ngọc Tường Vy
+			31 19235695: Phan Thị Gia Vy
+			32 19235703: Nguyễn Đức Anh
+			33 19235715: Trương Thị Bé Hoài
+			34 19235720: Đặng Thị Trúc Linh
+			35 19235723: Dương Thị Trà Mi
+			36 19235729: Ngô Đỗ Nhật Quang
+			37 19235739: Đồng Thị Vân Anh
+			38 19235753: Nguyễn Minh Phú
+			39 19235757: Trần Thị Thanh Thủy
+			40 19235779: Hồ Thị Thanh Tâm
+
+Room: 6
+Room: 7
+Time slot: 0 | TXQTTH1123: Quản trị quá trình kinh doanh
+			1 19210909: Dương Thị Vân Anh
+			2 19211738: Bùi Thị Huyền
+			3 19215157: Đặng Thanh Hải
+			4 19215197: Phùng Diệu Linh
+			5 19215273: Trần Nguyễn Nhật Quỳnh
+			6 19215318: Nguyễn Hoàng Long
+			7 19215340: Hồ Sỹ Phong
+			8 19215362: Nguyễn Ngọc Minh Thùy
+			9 19225126: Nguyễn Hoàng Duy
+			10 19225143: Đào Trần Đăng Khoa
+			11 19225181: Nguyễn Thị Kim Quý
+			12 19225335: Trần Thị Diệu
+			13 19225568: Nguyễn Thị Mỹ Hạnh
+			14 19225569: Trần Văn Hậu
+			15 19225572: Nguyễn Thị Minh Hoàng
+			16 19225574: Cao Trần Khánh Hưng
+			17 19225577: Đỗ Kiên
+			18 19225581: Đàm Thị Liên
+			19 19225733: Nguyễn Thái Quốc Anh
+			20 19225777: Phạm Quốc Long
+			21 19231270: Nguyễn Võ Nguyệt Tú
+			22 19235178: Phạm Văn Cường
+			23 19235182: Hoàng Văn Diệu
+			24 19235193: Hoàng Thị Bảo Hân
+			25 19235203: Phùng Ngô Trung Hưng
+			26 19235235: Nguyễn Phùng Hoàng Nam
+			27 19235248: Nguyễn Thị Quỳnh Như
+			28 19235277: Huỳnh Thị Phương Thảo
+			29 19235290: Lê Thị Tĩnh
+			30 19235293: Vũ Khánh Toàn
+			31 19235294: Đặng Trần Bảo Tôn
+			32 19235298: Phạm Hoàng Trọng
+			33 19235434: Phan Thị Mỷ Duyên
+			34 19235437: Vũ Nguyễn Bảo Hân
+			35 19235467: Nguyễn Thiện Nghĩa
+			36 19235477: Võ Thanh Sang
+			37 19235784: Lê Phương Trúc
+
+Time slot: 1 | TXLUCS09: Luật hiến pháp
+			1 19189004: Trần Quốc Huy
+			2 19189017: Đinh Huỳnh Vũ  Thanh
+			3 19215602: Bùi Thanh Nga
+			4 19220683: Lý Khả Uyên
+			5 19225043: Đinh Thị Liên Chi
+			6 19235396: Tiêu Phúc Tài
+
+Time slot: 2 | TXQTTH05: Quản trị chi phí kinh doanh
+			1 19205103: Nguyễn Vĩnh Lâu
+			2 19215537: Nguyễn Quốc An
+			3 19225128: Hoàng Thị Hồng Hà
+			4 19225143: Đào Trần Đăng Khoa
+			5 19225155: Đoàn Hải Nam
+			6 19225172: Võ Hữu Phước
+			7 19225190: Nguyễn Thị Thảo
+			8 19225208: Huỳnh Tăng Anh Tuấn
+			9 19225213: Đoàn Đại Việt
+			10 19225361: La Văn Kỳ
+			11 19225385: Nguyễn Thị Thanh Tâm
+			12 19225738: Nguyễn Thị Cẩm
+			13 19225756: Nguyễn Quang Hiếu
+			14 19225758: Đào Thị Hoa
+			15 19225760: Cấn Thị Thu Hương
+			16 19225793: Lê Quỳnh Như
+			17 19225801: Trần Thị Thiện Tâm
+			18 19225805: Nguyễn Đức Thịnh
+			19 19225813: Nguyễn Thành Trung
+			20 19225818: Lê Thanh Tuấn
+			21 19225822: Nguyễn Việt Tùng
+			22 19235178: Phạm Văn Cường
+			23 19235196: Đỗ Thị Thu Hiền
+			24 19235235: Nguyễn Phùng Hoàng Nam
+			25 19235239: Phan Nhiên Ngọc
+			26 19235251: Nguyễn Thành Ninh
+			27 19235273: Phạm Văn Thại
+			28 19235277: Huỳnh Thị Phương Thảo
+			29 19235279: Lê Nhật Thiên
+			30 19235292: Trần Văn Toàn
+			31 19235293: Vũ Khánh Toàn
+			32 19235302: Nguyễn Minh Tuấn
+			33 19235418: Đàm Thị Kim Anh
+			34 19235426: Trần Minh Chiến
+			35 19235429: Vũ Việt Cường
+			36 19235435: Trần Lê Mỹ Duyên
+			37 19235446: Nguyễn Quang Huy
+			38 19235686: Bành Ngọc Tố Uyên
+			39 19235784: Lê Phương Trúc
+
+Room: 8
+Time slot: 1 | TXLUKD1163: Pháp luật về đầu tư
+			1 19235055: Nguyễn Phú Cường
+			2 19235078: Võ Thị Kim Loan
+			3 19235079: Lý Tấn Lợi
+			4 19235094: Nguyễn Quỳnh Nhi
+			5 19235352: Dư Huỳnh Anh
+			6 19235355: Hà Phạm Bảo Châu
+			7 19235356: Lê Ngọc Châu
+			8 19235360: Nguyễn Ngọc Đạt
+			9 19235361: Phạm Thành Đạt
+			10 19235363: Trần Hoàng Thúy Hà
+			11 19235370: Võ Phước Hoà
+			12 19235371: Hà Khánh Hoàng
+			13 19235372: Vũ Văn Hùng
+			14 19235373: Vương Thị Lệ Huyền
+			15 19235374: Lê Quang Khải
+			16 19235384: Vũ Thuỳ Linh
+			17 19235385: Nguyễn Thành Long
+			18 19235386: Phan Thị Thanh Nga
+			19 19235390: Nguyễn Thị Oanh
+			20 19235393: Đỗ Thị Nhật Quỳnh
+			21 19235397: Nguyễn Văn Thạch
+			22 19235398: Phạm Chí Thanh
+			23 19235401: Đặng Hồng Thi
+			24 19235405: Nguyễn Thị Hoài Thương
+			25 19235409: Nguyễn Cao Trí
+			26 19235410: Kiều Thành Trung
+			27 19235413: Nguyễn Hoàng Phương Uyên
+
+Room: 9
+Room: 10
+Time slot: 1 | TXKTKE01: Nguyên lý kế toán
+			1 19235570: Ngô Quỳnh Diễm Thi
+			2 19235575: Đặng Ngọc Tuấn Anh
+			3 19235577: Lê Quốc Anh
+			4 19235601: Phạm Thị Thu Hậu
+			5 19235603: Nguyễn Thị Hiền
+			6 19235605: Hoàng Thị Hoa
+			7 19235608: Nguyễn Thái Học
+			8 19235609: Dương Gia Huy
+			9 19235628: Đặng Tuyết Nga
+			10 19235637: Trần Yến Nhi
+			11 19235657: Thái Mai Thao
+			12 19235675: Nguyễn Trần Huyền Trang
+			13 19235683: Hồ Trọng Tuấn
+			14 19235685: Vũ Lý Ánh Tuyết
+			15 19235688: Lương Quốc Vinh
+			16 19235690: Nguyễn Toàn Vinh
+			17 19235691: Quách Hữu Vinh
+
+Time slot: 1 | TXQTTH1131: Phương pháp tối ưu trong kinh doanh
+			1 19215103: Nguyễn Thị Thùy Linh
+			2 19215174: Lê Thị Xuân
+			3 19215291: Vũ Anh Hai
+			4 19215297: Đinh Tiến Hoàng
+			5 19215303: Nguyễn Thị Thu Hương
+			6 19215339: Hoàng Chí Phát
+			7 19225117: Lâm Linh Chi
+			8 19225184: Phan Thanh Sang
+			9 19225189: Nguyễn Duy Thành
+			10 19225333: Huỳnh Từ Phương Đang
+			11 19225335: Trần Thị Diệu
+			12 19225343: Trương Hiền
+			13 19225352: Nguyễn Sỹ Hùng
+			14 19225356: Vũ Duy Khanh
+			15 19225368: Lê Nhật Minh
+			16 19225381: Cao Xuân Sơn
+			17 19225382: Chu Văn Sơn
+			18 19225383: Đỗ Cao Sơn
+			19 19225397: Lê Đỗ Hoàng Bảo Trâm
+			20 19225406: Nguyễn Mạnh Tuấn
+			21 19225549: Huỳnh Ngọc Anh
+			22 19225574: Cao Trần Khánh Hưng
+			23 19225814: Vương Khánh Trung
+
+Time slot: 2 | TXQTTH05: Quản trị chi phí kinh doanh
+			1 19191218: Tạ Minh Thuận
+			2 19210909: Dương Thị Vân Anh
+			3 19225770: Nguyễn Thùy Linh
+			4 19235193: Hoàng Thị Bảo Hân
+
+Time slot: 2 | TXQTVH1109: Giao tiếp kinh doanh
+			1 19215171: Phan Thị Tím
+			2 19215458: Hoàng Hồng Lê
+			3 19220322: Phan Nguyễn Sông Hương
+			4 19225112: Hoàng Tuấn Anh
+			5 19225166: Nguyễn Thị Hồng Nhung
+			6 19225214: Nguyễn Duy Võ
+			7 19225377: Nguyễn Thị Ngọc Quý
+			8 19225390: Đặng Huỳnh Anh Thư
+			9 19225397: Lê Đỗ Hoàng Bảo Trâm
+			10 19225564: Nguyễn Đức Duy
+			11 19225569: Trần Văn Hậu
+			12 19225575: Phạm Duy Khang
+			13 19225586: Bùi Thị Hồng My
+			14 19225599: Trần Thuý Quỳnh
+			15 19225600: Nguyễn Công Sơn
+			16 19225605: Lê Thị Kim Thảo
+			17 19225612: Huỳnh Thùy Trang
+			18 19225613: Mai Thị Huyền Trang
+			19 19228013: Nguyễn Thị Diệu Vê
+			20 19235240: Trần Chí Nguyên
+			21 19235282: Vũ Anh Thư
+			22 19235536: Cao Trần Quỳnh Yến
+			23 19235704: Phạm Thị Vân Anh
+			24 19235706: Nguyễn Văn Chiến
+			25 19235710: NGUYỄN TẤN ĐÔNG
+			26 19235711: Phạm Tiến Dũng
+			27 19235717: Lê Thế Hưng
+			28 19235719: Trần Như Lai
+			29 19235720: Đặng Thị Trúc Linh
+			30 19235730: Trịnh Minh Quốc
+			31 19235731: Nguyễn Ngọc Tấn
+			32 19235736: Lê  Mạnh Tuấn
+
+Time slot: 3 | TXLLTT1101: Tư tưởng Hồ Chí Minh
+			1 19215536: Bùi Lê An
+			2 19215602: Bùi Thanh Nga
+			3 19222188: Vũ Thị Hằng
+			4 19225117: Lâm Linh Chi
+			5 19225122: Cao Thuỳ Thục Đoan
+			6 19225215: Phạm Nguyễn Phúc Anh
+			7 19225334: Bùi Thị Cúc Anh Đào
+			8 19225348: Lương Viết Đình Hoàng
+			9 19225496: Phạm Hồng Ngọc
+			10 19225518: Hồ Văn Út
+			11 19225616: Trương Huyền Trinh
+			12 19225801: Trần Thị Thiện Tâm
+			13 19225818: Lê Thanh Tuấn
+			14 19235018: Nguyễn Quang Thanh Lâm
+			15 19235073: Đinh Hoàng Diệu Linh
+			16 19235080: Lê Đình Long
+			17 19235085: Lê Nguyễn Khánh Minh
+			18 19235119: Trần Thị Thuỷ
+			19 19235125: Nguyễn Thị Yến Vy
+			20 19235143: Trịnh Thị Thu Hoài
+			21 19235164: Huỳnh Thị Mỹ Trân
+			22 19235168: Phạm Thị Kim Yến
+			23 19235178: Phạm Văn Cường
+			24 19235196: Đỗ Thị Thu Hiền
+			25 19235208: Nguyễn Thị Huyền
+			26 19235248: Nguyễn Thị Quỳnh Như
+			27 19235258: Trương Thị Bích Phương
+			28 19235264: Lê Thị Quỳnh
+			29 19235286: Lê Bích Thụy
+			30 19235290: Lê Thị Tĩnh
+			31 19235291: Lê Mạnh Toàn
+			32 19235297: Vũ Thị Thùy Trang
+			33 19235321: Nguyễn Thị Diệu Hoa
+			34 19235410: Kiều Thành Trung
+			35 19235467: Nguyễn Thiện Nghĩa
+			36 19235470: Nguyễn Lê Thảo Nhi
+			37 19235686: Bành Ngọc Tố Uyên
+			38 19235715: Trương Thị Bé Hoài
+			39 19235720: Đặng Thị Trúc Linh
+			40 19235723: Dương Thị Trà Mi
+
+Room: 11
+Time slot: 5 | TXKTKI02: Kiểm toán tài chính 1
+			1 19225028: Nguyễn Thị Mai Thảo
+
+Room: 12
+Time slot: 0 | TXQTKD116: Kỹ năng quản trị
+			1 19205050: Nguyễn Thị Thuỳ Linh
+			2 19205518: Phạm Văn Hưng
+			3 19205601: Lư Hà Long
+			4 19205609: Lê Hoàng Tâm
+			5 19205784: Lê Phước Lộc
+			6 19225128: Hoàng Thị Hồng Hà
+			7 19225155: Đoàn Hải Nam
+			8 19225164: Phạm Huỳnh Nhi
+			9 19225172: Võ Hữu Phước
+			10 19225190: Nguyễn Thị Thảo
+			11 19225213: Đoàn Đại Việt
+			12 19225738: Nguyễn Thị Cẩm
+			13 19225760: Cấn Thị Thu Hương
+			14 19225805: Nguyễn Đức Thịnh
+			15 19225818: Lê Thanh Tuấn
+
+Time slot: 5 | TXQTKD1148: Quản trị vận hành
+			1 19231740: Trần Đức Thắng
+			2 19235194: Nguyễn Mỹ Hạnh
+			3 19235278: Phạm Thị Thanh Thảo
+			4 19235420: Huỳnh Lê Anh
+			5 19235422: Phan Kế Anh
+			6 19235431: Trần Thành Đạt
+			7 19235433: Lê Thị Thùy Dương
+			8 19235443: Nguyễn Đặng Quỳnh Hương
+			9 19235445: Đỗ Minh Huy
+			10 19235449: Nguyễn Thị Thúy Huyền
+			11 19235454: Phí Ngọc Khánh
+			12 19235458: Trần Thị Linh
+			13 19235466: Lê Hồ Quỳnh Ngân
+			14 19235472: Võ Yến Như
+			15 19235473: Trần Danh Oanh
+			16 19235474: Phan Hoàng Quân
+			17 19235475: Trần Chu Sa
+			18 19235480: Nguyễn Văn Tài
+			19 19235483: Phạm Hồng Thắng
+			20 19235485: Lê Phạm Thanh Thanh
+			21 19235495: Võ Nguyễn Phương Thy
+			22 19235496: Lê Thanh Tiến
+			23 19235499: Quách Thị Bảo Trâm
+			24 19235501: Nguyễn Lê Thuỷ Trúc
+			25 19235502: Bùi Lê Hiếu Trung
+			26 19235505: Nguyễn Mạnh Tuấn
+			27 19235507: Đào Duy Tùng
+			28 19235605: Hoàng Thị Hoa
+			29 19235644: Cáp Kim Quang
+			30 19235784: Lê Phương Trúc
+
+Room: 13
+Time slot: 1 | TXKTKE01: Nguyên lý kế toán
+			1 19225130: Bùi Thanh Hải
+			2 19225310: Đoàn Kim Anh
+			3 19225582: Trần Khánh Linh
+			4 19235541: Huỳnh Tấn Đông
+			5 19235576: Đặng Thu Anh
+			6 19235580: Vũ Thị Mỹ Anh
+			7 19235584: Nguyễn Tấn Đạt
+			8 19235588: Trần Đức Dũng
+			9 19235600: Phạm Thị Phương Hậu
+			10 19235604: Phạm Bích Hiền
+			11 19235610: Dương Khánh Huy
+			12 19235611: Nguyễn Thị Thanh Huyền
+			13 19235641: Nguyễn Thị Thảo Phương
+			14 19235646: Ngô Trọng Quốc
+			15 19235648: Nguyễn Thị Quyên
+			16 19235649: Nguyễn Thị Thanh Quyền
+			17 19235656: Từ Ngọc Thạch
+			18 19235659: Trần Anh Thảo
+			19 19235660: Nguyễn Đỗ Mai Thi
+			20 19235662: Võ Thị Bé Thơ
+			21 19235665: Trần Thụy Trang Thư
+			22 19235667: Lâm Ngọc Ái Thy
+			23 19235677: Đỗ Thị Tú Trinh
+			24 19235679: Trần Đức Trọng
+			25 19235681: Đỗ Thanh Truyền
+			26 19235686: Bành Ngọc Tố Uyên
+			27 19235687: Vũ Thị Uyên
+			28 19235695: Phan Thị Gia Vy
+			29 19235730: Trịnh Minh Quốc
+			30 19235745: Mai Thị Lĩnh
+			31 19235753: Nguyễn Minh Phú
+			32 19235761: Dương Gia Bảo
+			33 19235770: Nguyễn Xuân Hưng
+			34 19235782: Nguyễn Thị Lệ Thu
+
+Time slot: 2 | TXQTVH04: Giao tiếp kinh doanh và thuyết trình
+			1 19205110: Hà Thị Nguyên
+			2 19205435: Phan Quốc Đạt
+
+Room: 14
+Time slot: 1 | TXQTTH07: Quản trị chất lượng
+			1 19205050: Nguyễn Thị Thuỳ Linh
+			2 19205435: Phan Quốc Đạt
+			3 19205518: Phạm Văn Hưng
+			4 19215450: Bùi Thị Hà
+			5 19215645: Phạm Đình Thịnh
+			6 19225408: Mai Thanh Tùng
+			7 19225554: Lê Văn Bắc
+			8 19225584: Nguyễn Thanh Long
+			9 19225588: Nguyễn Thị Thu Nga
+			10 19225616: Trương Huyền Trinh
+			11 19225731: Lê Công Anh
+			12 19225733: Nguyễn Thái Quốc Anh
+			13 19225801: Trần Thị Thiện Tâm
+			14 19225806: Nguyễn Thị Thu Thơm
+			15 19225816: Trần Minh Tú
+			16 19235208: Nguyễn Thị Huyền
+			17 19235235: Nguyễn Phùng Hoàng Nam
+			18 19235277: Huỳnh Thị Phương Thảo
+			19 19235293: Vũ Khánh Toàn
+			20 19235297: Vũ Thị Thùy Trang
+			21 19235427: Nguyễn Khánh Chính
+			22 19235439: Trần Thị Thu Hiền
+			23 19235441: Lê Thị Thanh Hòa
+			24 19235448: Phạm Quốc Huy
+			25 19235457: Nguyễn Duy Linh
+			26 19235459: Võ Thị Hải Lý
+			27 19235462: Vũ Thị Hồng Mỹ
+			28 19235463: Hà Ngọc Nam
+			29 19235476: Ngụy Thái Sang
+			30 19235478: Nguyễn Đình Sơn
+			31 19235490: Trần Thiện Thống
+			32 19235492: Lê Ngọc Hoài Thương
+			33 19235493: Quang Đăng Phương Thuỷ
+			34 19235494: Bùi Thị Thanh Thủy
+			35 19235500: Lâm Văn Trí
+			36 19235504: Nguyễn Thị Cẩm Tú
+			37 19235506: Nguyễn Viết Tuấn
+			38 19235512: Trần Như Ý
+
+Time slot: 5 | TXTOCB01: Toán cho các nhà kinh tế
+			1 19235130: Trịnh Thị Yến
+			2 19235336: Ngô Duy Thắng
+			3 19235539: Lê Thị Vân Anh
+			4 19235551: Lưu Thị Linh
+			5 19235560: Huỳnh Thị Như Ngọc
+			6 19235562: Trần Diệp Hoàng Oanh
+			7 19235566: Lê Tùng Sơn
+			8 19235575: Đặng Ngọc Tuấn Anh
+			9 19235577: Lê Quốc Anh
+			10 19235606: Nguyễn Ngọc Mai Hoa
+			11 19235623: Huỳnh Thị Tiểu My
+			12 19235656: Từ Ngọc Thạch
+			13 19235659: Trần Anh Thảo
+			14 19235688: Lương Quốc Vinh
+
